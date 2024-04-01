@@ -54,19 +54,19 @@
 <h2 align="center">🔭 Stats 🔭</h2>
 <br>
 <div align="center">
-    <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadShohagIslam&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite"/>     
+    <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdmominul-310&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite"/>     
 </div>
 <br>
 <table align="center">
   <tr>
-    <td valign="top"><img height="130px" align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadShohagIslam&count_private=true&hide_title=true&hide_border=true&show_icons=tru&text_color=000&icon_color=fff&theme=graywhite"/> </td>
-    <td valign="top"><img height="130px" align=top src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadShohagIslam&count_private=false&hide_border=true&text_color=000&icon_color=fff&theme=graywhite" /></td>
+    <td valign="top"><img height="130px" align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdmominul-310&count_private=true&hide_title=true&hide_border=true&show_icons=tru&text_color=000&icon_color=fff&theme=graywhite"/> </td>
+    <td valign="top"><img height="130px" align=top src="https://github-readme-streak-stats.herokuapp.com?user=mdmominul-310&count_private=false&hide_border=true&text_color=000&icon_color=fff&theme=graywhite" /></td>
   </tr>
 </table>
 <br>
 <br>
 <h3 align="center">
-    <a  href="https://github.com/MuhammadShohagIslam?tab=repositories" title="Show Repositories">🔭 Show More 🔭</a>
+    <a  href="https://github.com/mdmominul-310?tab=repositories" title="Show Repositories">🔭 Show More 🔭</a>
 </h3>
 <!--
 **mdmominul-310/mdmominul-310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
